@@ -1,5 +1,4 @@
 #! /usr/bin/env python3
-import sys
 
 with open("day4.txt", "r") as f:
     values = list(map(lambda line: line.strip(), f.readlines()))
