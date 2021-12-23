@@ -1,0 +1,8 @@
+.directory
+__pycache__
+*.ini
+*.json
+*.out
+local.sh
+*.swp
+.idea
